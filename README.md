@@ -1,4 +1,6 @@
 # ToDo-List-App
+A simple todo app built with JavaScript
+![Screenshot from 2023-11-28 15-43-03](https://github.com/RadhaTawar/ToDo-List-App/assets/92147782/7db288c1-ed1e-4a55-9137-dcd2a26f8f2a)
 
 ## Setup
 1. To get this repository, run the following command inside your git-enabled terminal
